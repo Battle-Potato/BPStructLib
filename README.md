@@ -39,7 +39,5 @@ BPDataLib.h (imports all data types)
     DynamicArray.h (imports base class)
         \Stack
         Stack.h 
-        ...
-
     \LightSLL
     LightSLL.h
