@@ -30,13 +30,3 @@ Other Ideas:
         Unordered Map
         Ordered Map
     
-
-File Organization
-\BPDataLib
-BPDataLib.h (imports all data types)
-    \DynamicArray
-    DynamicArray.h (imports base class)
-        \Stack
-        Stack.h 
-    \LightSLL
-    LightSLL.h
