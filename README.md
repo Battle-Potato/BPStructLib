@@ -32,7 +32,6 @@ Other Ideas:
     
 
 File Organization
-
 \BPDataLib
 BPDataLib.h (imports all data types)
     \DynamicArray
